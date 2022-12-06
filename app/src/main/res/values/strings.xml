@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Penyewaan Laptop</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="deskription_menu">laptop ROG berspesifikasi tinggi cocok di gunakan untuk editing dan gaming mampu menjalankan aplikasi berat seperti autocad dan blander3d</string>
+    <string name="price">Harga</string>
+    <string name="hargajual">Rp. 150.000/hari </string>
+
+    <!--    Recycler View-->
+    <string-array name="Laptop">
+        <item>Dell</item>
+        <item>Acer</item>
+        <item>Zenbook</item>
+    </string-array>
+    <string-array name="star">
+        <item>4.7</item>
+        <item>4.4</item>
+        <item>4.9</item>
+
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Rp. 75.000/hari</item>
+        <item>Rp. 50.000/hari</item>
+        <item>Rp. 125.000</item>
+    </string-array>
+</resources>
